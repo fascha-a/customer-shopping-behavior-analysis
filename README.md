@@ -11,7 +11,6 @@ The core analysis is built around the `customer_shopping_data.csv` dataset and a
 
 ## Repository Contents
 - `Data Programming Project.ipynb`: Main notebook with analysis for Questions 1-4, including EDA, visualizations, and models (e.g., Logistic Regression, KNN, SVM, Decision Tree).
-- `Question3.ipynb`: Supporting notebook focused on Question 3 analysis.
 - `customer_shopping_data.csv`: Input dataset used throughout the project.
 - `Project Proposal.docx`: Initial project proposal.
 - `Project Report.docx` / `Project Report.pdf`: Final written report.
